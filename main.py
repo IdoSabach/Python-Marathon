@@ -1,4 +1,4 @@
-import sys
+print('ido')
 
-my_var = 5
-print(sys.getrefcount(my_var))
+x =5
+print(x)
